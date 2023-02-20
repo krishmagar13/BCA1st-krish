@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf( "krish")
+printf( "hellow my name is KRish lungeli MAgar")
 return;
 }
